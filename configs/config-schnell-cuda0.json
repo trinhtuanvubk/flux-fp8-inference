@@ -34,8 +34,8 @@
     "scale_factor": 0.3611,
     "shift_factor": 0.1159
   },
-  "ckpt_path": "/big/generator-ui/flux-testing/flux/model-dir-schnell/flux1-schnell.sft",
-  "ae_path": "/big/generator-ui/flux-testing/flux/model-dir-schnell/ae.sft",
+  "ckpt_path": "/root/work/flux-fp8-api/model-cache/schnell/schnell.sft",
+  "ae_path": "/root/work/flux-fp8-api/model-cache/ae/ae.sft",
   "repo_id": "black-forest-labs/FLUX.1-schnell",
   "repo_flow": "flux1-schnell.sft",
   "repo_ae": "ae.sft",
